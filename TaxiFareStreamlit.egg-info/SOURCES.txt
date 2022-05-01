@@ -1,0 +1,13 @@
+MANIFEST.in
+Makefile
+Procfile
+README.md
+app.py
+requirements.txt
+setup.py
+setup.sh
+TaxiFareStreamlit.egg-info/PKG-INFO
+TaxiFareStreamlit.egg-info/SOURCES.txt
+TaxiFareStreamlit.egg-info/dependency_links.txt
+TaxiFareStreamlit.egg-info/requires.txt
+TaxiFareStreamlit.egg-info/top_level.txt
